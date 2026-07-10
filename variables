@@ -1,0 +1,16 @@
+PGTServerIP|0.0.0.0
+PGTServerPort|0000
+
+# VERSION STUFF
+CurrentVersion|1.0
+UpdateMSG|`9`2New Proxy Version`` is Available, Update Proxy To Play!
+
+# INFO
+ConsoleMessage|`9[`^hxdproxy``]``
+Discord|https://discord.gg/EUfnTrXeR
+
+# GT STUFF
+GrowtopiaFPS_Offset|38525744
+ServerIP|213.179.209.175
+ServerPort|17043
+ServerLoginUrl|login.growtopiagame.com
