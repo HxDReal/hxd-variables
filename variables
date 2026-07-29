@@ -3,7 +3,7 @@ PGTServerPort|0000
 
 # VERSION STUFF
 CurrentVersion|1.7
-UpdateMSG|`1`2New Proxy Version`` Is Available, Update Proxy To Play!
+UpdateMSG|`1`2New Proxy Version`` (`#V1.7``) Is Available, Update Proxy To Play!
 
 # INFO
 ConsoleMessage|`9[`^dsc.gg/hxdproxy``]``
