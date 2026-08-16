@@ -1,5 +1,5 @@
-PGTServerIP|0.0.0.0
-PGTServerPort|0000
+PGTServerIP|127.0.0.1
+PGTServerPort|17177
 
 # VERSION STUFF
 CurrentVersion|2.0
