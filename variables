@@ -2,8 +2,8 @@ PGTServerIP|194.49.79.42
 PGTServerPort|17177
 
 # VERSION STUFF
-CurrentVersion|2.0
-UpdateMSG|`1`2New Proxy Version`` (`#V2.0``) Is Available, Update Proxy To Play!
+CurrentVersion|2.1
+UpdateMSG|`1`2New Proxy Version`` (`#V2.1``) Is Available, Update Proxy To Play!
 
 # INFO
 ConsoleMessage|`9[`^dsc.gg/hxdproxy``]``
